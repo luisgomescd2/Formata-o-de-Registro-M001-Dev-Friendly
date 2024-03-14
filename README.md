@@ -19,8 +19,7 @@ jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_nova
 ```javascript
 const code = 'BANANA';
 copyCodeBlock(code);
-
-
+``` 
 
 #### Como funciona?
 
