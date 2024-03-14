@@ -13,12 +13,10 @@ classes/class_promocao.inc
 
 #### link toolbox: 
 
-[aqui](#jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:228)
+jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802
 
+[![Copiar Texto](https://img.shields.io/badge/Copiar%20Texto-Clique%20aqui-blue)](javascript:void(copyToClipboard()))
 
-[My link text](#whatever)
-
-<a name="whatever" href="jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802"></a>
 
 #### Como funciona?
 
