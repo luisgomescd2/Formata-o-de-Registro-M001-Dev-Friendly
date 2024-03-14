@@ -13,12 +13,8 @@ classes/class_promocao.inc
 
 #### link toolbox: 
 
-jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802
-
-## Usage
 ```javascript
-const code = 'BANANA';
-copyCodeBlock(code);
+jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802
 ``` 
 
 #### Como funciona?
