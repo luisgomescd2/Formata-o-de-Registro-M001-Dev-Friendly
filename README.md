@@ -1,0 +1,1 @@
+# Formata-o-de-Registro-M001-Dev-Friendly
