@@ -16,6 +16,10 @@ classes/class_promocao.inc
 [aqui](#jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:228)
 
 
+[My link text](#Whatever)
+
+<a name="Whatever"></a>
+
 #### Como funciona?
 
 É criado um loop do tipo 0 ao 12. Todos esses 
