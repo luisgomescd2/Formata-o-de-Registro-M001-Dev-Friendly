@@ -16,9 +16,9 @@ classes/class_promocao.inc
 [aqui](#jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:228)
 
 
-[My link text](#Whatever)
+[My link text](#whatever)
 
-<a name="Whatever" href="jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802"></a>
+<a name="whatever" href="jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802"></a>
 
 #### Como funciona?
 
