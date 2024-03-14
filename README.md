@@ -10,7 +10,7 @@ Sinta-se à vontade para adicionar mais arquivos nesse documento!
 ## Arquivo 22: Produtos/Departamentos vinculados a Promoções
 
 #### Onde encontrar?
-[*classes/class_promocao.inc*](jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_promocao.inc:228)
+[classes/class_promocao.inc](phpstorm://php-storm/navigate/reference?project=manager&path=classes/class_promocao.inc:228)
 
 
 | Campo  | Conteúdo | Início | Tamanho | as |
