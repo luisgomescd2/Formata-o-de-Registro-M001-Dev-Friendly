@@ -20,7 +20,7 @@ Após ter isntalado o tollbox, Copia e cola no browser que ele te leva ao arquiv
 ##  Arquivo 22: Produtos/Departamentos vinculados a Promoções
 
 #### Onde encontrar?
-classes/class_promocao.inc 
+classes/class_novapromocao.inc 
 
 #### link toolbox: 
 
