@@ -6,6 +6,17 @@ Esse repositório tem como finalidade aproximar o doc [M001](https://docs.zanthu
 Sinta-se à vontade para adicionar mais arquivos nesse documento! 
 
 
+## FAQ
+
+#### O que é o jetbrains toolbox? 
+
+Pra esse documento, é como vc faz pra acessar o lugar exato descrito na seção do arquivo. Você pode encontrar mais informações no link
+[toolbox](https://www.jetbrains.com/toolbox-app/)
+
+#### Como acesso os links?
+Copia e cola no browser que ele te leva ao arquivo e à linha. 
+
+
 ##  Arquivo 22: Produtos/Departamentos vinculados a Promoções
 
 #### Onde encontrar?
@@ -19,22 +30,21 @@ jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_nova
 
 #### Como funciona?
 
-É criado um loop do tipo 0 ao 12. Todos esses 
+É criado um loop do tipo 0 ao 12 (campo A22ACA). Para cada um dos tipos, é criado um sistema de ifelse que verifica qual o tipo da vez e altera a query SQL e então essa query SQL contendo os dados é executada e posteriormente processada num while.
 
+Entre a execução da query e o processamento dos registros, tem alguns ifs com configs específicas por tipo de arquivo. 
 
-#### Tabela da M001
+Na linha 3216
 
-| Campo  | Conteúdo | Início | Tamanho | as |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| A22AA | Reservado | 1 | 6 | 
-## FAQ
+```javascript
+jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:3216
+``` 
 
-#### O que é o jetbrains toolbox? 
+São geradas as linhas que serão concatenadas num array de linhas que será enviado para o kernz_envia_sdf. 
 
-Pra esse documento, é como vc faz pra acessar o lugar exato descrito na seção do arquivo. Você pode encontrar mais informações no link
-[toolbox](https://www.jetbrains.com/toolbox-app/)
+A tabela do arquivo 22 pode ser comparada com o esquema criado em ImportaSDF22():
 
-#### Como uso o toolbox?
-
-Resposta 2
-
+```javascript
+jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:3435
+``` 
+Pois as informações de Início e Tam estão iguais. 
