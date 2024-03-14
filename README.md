@@ -14,7 +14,7 @@ Pra esse documento, é como vc faz pra acessar o lugar exato descrito na seção
 [toolbox](https://www.jetbrains.com/toolbox-app/)
 
 #### Como acesso os links?
-Copia e cola no browser que ele te leva ao arquivo e à linha. 
+Após ter isntalado o tollbox, Copia e cola no browser que ele te leva ao arquivo e à linha. 
 
 
 ##  Arquivo 22: Produtos/Departamentos vinculados a Promoções
