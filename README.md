@@ -18,7 +18,7 @@ classes/class_promocao.inc
 
 [My link text](#Whatever)
 
-<a name="Whatever"></a>
+<a name="Whatever" href="jetbrains://php-storm/navigate/reference?project=manager&path=classes/class_novapromocao.inc:2802"></a>
 
 #### Como funciona?
 
